@@ -137,6 +137,6 @@ int main(void) { //(7)
     //(6)
     CopyArray(nums1, nums2);
     printf("\n"); // 가독성을 위해 줄 바꿈
-    
+
     return 0;
 }
